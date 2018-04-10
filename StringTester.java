@@ -85,10 +85,4 @@ public class StringTester {
   
   String reversed = "";
   
-  for (int j = 0; j<len; j++){
-    reversed = s.charAt(j)+reversed;
-  }
-  System.out.println(reversed);
-  
-}
-} 
+ 
